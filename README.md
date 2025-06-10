@@ -111,6 +111,4 @@ Body:
 
 ---
 
-## 📬 Questions?
-
-Feel free to ask for help or modifications anytime!
+github link:
