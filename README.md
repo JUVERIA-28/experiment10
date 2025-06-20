@@ -4,11 +4,11 @@ This project is a simple Node.js + Express.js application that performs CRUD ope
 
 ## 🔧 Features
 
-- 🔐 Login endpoint that returns a JWT token
-- ✅ Protected CRUD endpoints for student data
-- 🧪 Testable via Postman
-- 🧱 Mock user authentication
-- 🔒 JWT middleware for route protection
+-  Login endpoint that returns a JWT token
+-  Protected CRUD endpoints for student data
+-  Testable via Postman
+-  Mock user authentication
+-  JWT middleware for route protection
 
 ---
 
@@ -56,9 +56,7 @@ Server will run on: `http://localhost:3000`
 {
   "token": "your.jwt.token"
 }
-```
 
----
 
 ## 🧪 CRUD API (Protected)
 
@@ -85,11 +83,11 @@ Body:
 
 **DELETE** `/students/1`
 
----
+
 
 ## 📁 Project Structure
 
-```
+
 .
 ├── server.js
 ├── routes/
@@ -101,15 +99,22 @@ Body:
 │   └── users.js
 ```
 
----
 
-## ✅ Output Example
+
+##  Output Example
 
 - On `/auth/login`, you get a JWT token.
 - Use this token to `GET`, `POST`, and `DELETE` student records securely.
 - Without the token, you'll receive a `401 Unauthorized`.
 
----
+
 
 github link:
 https://github.com/JUVERIA-28/experiment10.git
+
+Screenshots:
+
+![image](https://github.com/user-attachments/assets/3ecb2571-48b5-4cd5-bea9-8f97271f8cca)
+
+![image](https://github.com/user-attachments/assets/353a3b25-afb2-4b6b-92c4-83ba507b3baf)
+
