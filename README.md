@@ -113,10 +113,8 @@ github link:
 https://github.com/JUVERIA-28/experiment10.git
 
 Screenshots:
+![Screenshot (63)](https://github.com/user-attachments/assets/c50e1a08-a61b-4469-933b-c7041cac4b9c)
 
-![Screenshot (63)](https://github.com/user-attachments/assets/17c71302-0488-4ebb-a74d-7d65a310a4e1)
-
-![2025-06-20 (1)](https://github.com/user-attachments/assets/4e2587cb-bc9c-48b9-83c4-b404e0e19c50)
 
 
 
